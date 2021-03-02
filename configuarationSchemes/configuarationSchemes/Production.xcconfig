@@ -1,0 +1,16 @@
+//
+//  Production.xcconfig
+//  configuarationSchemes
+//
+//  Created by Gia Han on 3/2/21.
+//  Copyright © 2021 vn.netstars. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+SLASH = /
+APP_NAME = Configuration - Pro
+PRODUCT_BUNDLE_IDENTIFIER = vn.freelancer.configuarationSchemes.pro
+DOMAIN_API = http:${SLASH}/khanh.pro
+APP_COLOR = #ff000000

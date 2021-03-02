@@ -4,10 +4,20 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>APP_COLOR</key>
+	<string>$(APP_COLOR)</string>
+	<key>DOMAIN_API</key>
+	<string>$(DOMAIN_API)</string>
+	<key>APP_NAME</key>
+	<string>$(APP_NAME)</string>
+	<key>BUNDLE_IDENTIFIER</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleDisplayName</key>
+	<string>$(APP_NAME)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>

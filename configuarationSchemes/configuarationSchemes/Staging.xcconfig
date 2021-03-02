@@ -1,0 +1,16 @@
+//
+//  Staging.xcconfig
+//  configuarationSchemes
+//
+//  Created by Gia Han on 3/2/21.
+//  Copyright © 2021 vn.netstars. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+SLASH = /
+APP_NAME = Configuration - Stg
+PRODUCT_BUNDLE_IDENTIFIER = vn.freelancer.configuarationSchemes.stg
+DOMAIN_API = http:${SLASH}/khanh.stag
+APP_COLOR = #ffc3c3c3
