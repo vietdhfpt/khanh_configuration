@@ -1,0 +1,13 @@
+//
+//  Staging.xcconfig
+//  configuarationSchemes
+//
+//  Created by Gia Han on 3/2/21.
+//  Copyright © 2021 vn.netstars. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = KHANH-STAG
+
